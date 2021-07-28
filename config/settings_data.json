@@ -167,12 +167,19 @@
           "button_link": "",
           "swipe_on_mobile": false
         }
+      },
+      "1627493498dfb5be1f": {
+        "type": "custom-liquid",
+        "settings": {
+          "custom_liquid": "<h2>hi<\/h2>"
+        }
       }
     },
     "content_for_index": [
       "162749125922b1de01",
       "1627491327010d820b",
-      "16274914295eab5399"
+      "16274914295eab5399",
+      "1627493498dfb5be1f"
     ]
   }
 }
