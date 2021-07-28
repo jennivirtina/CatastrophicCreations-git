@@ -93,6 +93,8 @@
           "162749125922b1de01-2"
         ],
         "settings": {
+          "image": "shopify:\/\/shop_images\/full_setup2web-wide-1.jpg",
+          "image_2": "shopify:\/\/shop_images\/cat-furniture-hero-image-mobile.jpg",
           "desktop_text_box_position": "center",
           "color_scheme": "background-1",
           "stack_images_on_mobile": true,
