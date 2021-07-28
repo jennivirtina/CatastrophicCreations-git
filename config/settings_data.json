@@ -114,11 +114,65 @@
           "add_image_padding": false,
           "show_vendor": false
         }
+      },
+      "16274914295eab5399": {
+        "type": "multicolumn",
+        "blocks": {
+          "16274914295eab5399-0": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cat-new-arrivals.png",
+              "title": "New Arrivals",
+              "text": "<p>A collection of our latest cat furniture concepts.<br\/><br\/><a href=\"\/collections\" title=\"All collections\">View More<\/a><\/p>"
+            }
+          },
+          "16274914295eab5399-1": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cat-bridges.png",
+              "title": "Cat Bridges",
+              "text": "<p>These are a great option for connecting spaces like windows or doorways. Beware of the occasional \"paw to the head bop\", if you choose the doorway.<br\/><br\/><a href=\"\/collections\" title=\"All collections\">View More<\/a><\/p>"
+            }
+          },
+          "16274914295eab5399-2": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cat-sisal.png",
+              "title": "Sisal Collection",
+              "text": "<p>Save your furniture by giving your cat a positive outlet for scratching and keeping their claws healthy.<br\/><br\/><a href=\"#\" title=\"#\">View More<\/a><\/p>"
+            }
+          },
+          "80c4c0cf-eb82-46e7-a423-9e376169e71c": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cat-hammocks.png",
+              "title": "Cat Hammocks",
+              "text": "<p>Our hammocks are designed more like fabric walkways. The heavyweight canvas fabric is pulled taught to create a sturdy surface that your cat can feel secure walking on, or use for a nap.<br\/><br\/><a href=\"#\" title=\"#\">View More<\/a><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "16274914295eab5399-0",
+          "16274914295eab5399-1",
+          "16274914295eab5399-2",
+          "80c4c0cf-eb82-46e7-a423-9e376169e71c"
+        ],
+        "settings": {
+          "title": "Multicolumn",
+          "image_width": "full",
+          "image_ratio": "adapt",
+          "column_alignment": "center",
+          "background_style": "primary",
+          "button_label": "Button label",
+          "button_link": "",
+          "swipe_on_mobile": false
+        }
       }
     },
     "content_for_index": [
       "162749125922b1de01",
-      "1627491327010d820b"
+      "1627491327010d820b",
+      "16274914295eab5399"
     ]
   }
 }
