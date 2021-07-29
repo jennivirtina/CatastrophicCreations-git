@@ -2072,3 +2072,22 @@ details-disclosure > details {
     transform: translateY(0);
   }
 }
+
+  
+  
+/* THEME INTEGRATION */
+  
+.box-title { text-transform: initial; font-family: roboto slab, Sans-serif; text-align: center; font-weight: 300; font-size: 36px; margin-bottom: 24px !important }
+.box-title span { font-weight: 700 }
+@media(min-width:768px) {
+	.box-title { font-size: 32px }
+}
+@media(min-width:992px) {
+	.box-title { font-size: 48px !important }
+}
+@media(min-width:1200px) {
+	.box-title { font-size: 36px !important }
+}
+@media(min-width:1400px) {
+	.box-title { font-size: 48px !important }
+}
