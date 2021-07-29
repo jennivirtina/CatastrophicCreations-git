@@ -110,7 +110,7 @@
       "1627541854dfc07efc": {
         "type": "featured-collection",
         "settings": {
-          "title": "Our Best <span>Sellers <\/span>",
+          "title": "Our Best <b>Sellers <\/b>",
           "collection": "",
           "products_to_show": 4,
           "show_view_all": false,
