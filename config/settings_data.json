@@ -118,7 +118,7 @@
           "image_ratio": "adapt",
           "show_secondary_image": false,
           "add_image_padding": false,
-          "show_vendor": false
+          "show_vendor": true
         }
       }
     },
