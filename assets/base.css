@@ -2079,8 +2079,10 @@ details-disclosure > details {
 a {
     text-decoration: none;
 }
-.text-md-left {
-    text-align: left!important;
+@media (min-width: 768px){
+  .text-md-left {
+      text-align: left!important;
+  }
 }
 .text-center {
     text-align: center!important;
