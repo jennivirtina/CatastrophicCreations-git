@@ -103,11 +103,6 @@
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
 
-    {% if template == 'index' %}
-      {{ 'homepagev2.css' | asset_url | stylesheet_tag }}
-    {% endif %}
-
-
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
     {%- endunless -%}
@@ -126,7 +121,7 @@
     {% section 'announcement-bar' %}
     {% section 'header' %}
 
-    <main id="MainContent" class="content-for-layout focus-none homepage-v2" role="main" tabindex="-1">
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
 
