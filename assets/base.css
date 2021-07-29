@@ -2106,7 +2106,17 @@ a {
       text-align: left!important;
   }
 }
-
+.cc-section-title { font-family: var(--robotoSlab); font-size: 36px; font-style: normal; margin-bottom: 70px; font-weight: 300; line-height: 1.5em; text-align: left; color: #232323; text-transform: initial; margin-bottom: 24px; text-align: center }
+.cc-section-title b { font-weight: 700 }
+@media(min-width:768px) {
+	.cc-section-title { font-size: 40px }
+}
+@media(min-width:992px) {
+	.cc-section-title { font-size: 48px }
+}
+@media(min-width:1200px) {
+	.cc-section-title { font-size: 56px }
+}
 .box-title { text-transform: initial; font-family:"Roboto Slab", serif; text-align: center; font-weight: 300; font-size: 36px; margin-bottom: 24px !important }
 .box-title span { font-weight: 700 }
 @media(min-width:768px) {
