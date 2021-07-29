@@ -2136,7 +2136,7 @@ a {
   }
 }
 
-.box-title { text-transform: initial; font-family:"Roboto Slab", serif; text-align: center; font-weight: 300; font-size: 36px; margin-bottom: 24px !important }
+.box-title { text-transform: initial; font-family:"roboto; text-align: center; font-weight: 300; font-size: 36px; margin-bottom: 24px !important }
 .box-title span { font-weight: 700 }
 @media(min-width:768px) {
 	.box-title { font-size: 32px }
