@@ -2079,22 +2079,15 @@ details-disclosure > details {
 html {font-family:"Roboto Slab", serif; }
 html { scroll-behavior: smooth }
 a:hover { text-decoration: none }
-
 :root {
-  // Fonts
-  --robotoSlab: "Roboto Slab", serif;
-
-  // Color variables
-  --lightGray: #f8f8f8;
-  --gold: #b39968;
-  --gold--light: #d8cab5;
-  --green: #92bd62;
-  --black: #232323;
-
-  // Color settings
-  --bgColor--light: var(--lightGray);
+    --robotoSlab: "Roboto Slab", Sans-serif;
+    --lightGray: #f8f8f8;
+    --gold: #b39968;
+    --gold--light: #d8cab5;
+    --green: #92bd62;
+    --black: #232323;
+    --bgColor--light: var(--lightGray);
 }
-
 a {
     text-decoration: none;
 }
