@@ -6,7 +6,12 @@
 .best-sellers li.grid__item:hover .card--product{
     box-shadow: 0px 0px 15px 5px rgb(0 0 0 / 10%);
     -webkit-box-shadow: 0px 0px 15px 5px rgb(0 0 0 / 10%);
-    -moz-box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.1);
+}
+.best-sellers li.grid__item .card--product{
+        border-radius: 8px;
+    transition: box-shadow 200ms ease;
+  }
 </style>
 
 <noscript>{{ 'component-slider.css' | asset_url | stylesheet_tag }}</noscript>
