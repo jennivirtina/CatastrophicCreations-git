@@ -84,8 +84,8 @@
           "1627500335b0649cf0-2": {
             "type": "buttons",
             "settings": {
-              "button_label_1": "Shop our products",
-              "button_link_1": "",
+              "button_label_1": "Shop Our Products",
+              "button_link_1": "#",
               "button_style_secondary_1": false,
               "button_label_2": "",
               "button_link_2": "",
@@ -110,7 +110,7 @@
       "1627541854dfc07efc": {
         "type": "featured-collection",
         "settings": {
-          "title": "Our Best <b>Sellers <\/b>",
+          "title": "Our Best <span>Sellers <\/span>",
           "collection": "",
           "products_to_show": 4,
           "show_view_all": false,
