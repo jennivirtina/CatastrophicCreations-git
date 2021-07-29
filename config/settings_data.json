@@ -72,22 +72,22 @@
           "1627500335b0649cf0-0": {
             "type": "heading",
             "settings": {
-              "heading": "Image banner"
+              "heading": "Modern Cat Furniture"
             }
           },
           "1627500335b0649cf0-1": {
             "type": "text",
             "settings": {
-              "text": "Give customers details about the banner image(s) or content on the template."
+              "text": "Modular, wall-mounted cat furniture that evokes feline instinct."
             }
           },
           "1627500335b0649cf0-2": {
             "type": "buttons",
             "settings": {
-              "button_label_1": "Button label",
+              "button_label_1": "Shop our products",
               "button_link_1": "",
               "button_style_secondary_1": false,
-              "button_label_2": "Button label",
+              "button_label_2": "",
               "button_link_2": "",
               "button_style_secondary_2": false
             }
@@ -99,9 +99,11 @@
           "1627500335b0649cf0-2"
         ],
         "settings": {
+          "image": "shopify:\/\/shop_images\/full_setup2web-wide-1.jpg",
+          "image_2": "shopify:\/\/shop_images\/cat-furniture-hero-image-mobile.jpg",
           "desktop_text_box_position": "center",
           "color_scheme": "background-1",
-          "stack_images_on_mobile": true,
+          "stack_images_on_mobile": false,
           "adapt_height_first_image": false
         }
       },
