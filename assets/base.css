@@ -2076,7 +2076,7 @@ details-disclosure > details {
   
   
 /* THEME INTEGRATION */
-html { --body-color: #77838f; --paddingNormal: 88px; --sectionMargin: 32px; --listMargin: 8px; --titleMargin: 16px; --imageMargin: 32px; --blurbPadding: 36px; --borderRadius: 8px; font-family: roboto, sans-serif }
+html { --body-color: #77838f; --paddingNormal: 88px; --sectionMargin: 32px; --listMargin: 8px; --titleMargin: 16px; --imageMargin: 32px; --blurbPadding: 36px; --borderRadius: 8px; font-family:"Roboto Slab", serif; }
 html { scroll-behavior: smooth }
 a:hover { text-decoration: none }
 body.page-template-cc-instructions { overflow: visible; font-size: 16px }
@@ -2136,7 +2136,7 @@ a {
   }
 }
 
-.box-title { text-transform: initial; font-family:"roboto"; text-align: center; font-weight: 300; font-size: 36px; margin-bottom: 24px !important }
+.box-title { text-transform: initial; font-family:"Roboto Slab", serif; text-align: center; font-weight: 300; font-size: 36px; margin-bottom: 24px !important }
 .box-title span { font-weight: 700 }
 @media(min-width:768px) {
 	.box-title { font-size: 32px }
